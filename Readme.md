@@ -4,10 +4,12 @@ This year's problem statement emphasizes on RAG multi-agent systems. As a test, 
 
 Just as a comparison 
 
-Initial output
+Initial output:
+
 Tell me about NJACK. Tell us about your favorite NJACK stories. Share your photos of NJACK with iReporter@mailonlinepictures.com. Visit http://www.napp.com/NJACK for more information about the NJACK story
 
-Output After RAG
+Output After RAG:
+
 NJACK is the coding club of IIT Patna. NJACK has 4 divisions and has sub coordinators for every division. The club is a technical club and technical club. It is also a coding club and has a sub-coordinator for each division of each division.
 
 
