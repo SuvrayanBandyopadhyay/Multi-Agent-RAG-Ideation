@@ -17,4 +17,4 @@ NJACK is the coding club of IIT Patna. NJACK has 4 divisions and has sub coordin
 
 The retrieval mechanism is rather primitive at this stage. However, it can be improved using Pathway’s inbuilt API or by encoding words into vectors before searching.
 
-Along with this I have a word file with some basic ideas.
+Along with this I have added two word file with some basic ideas.
