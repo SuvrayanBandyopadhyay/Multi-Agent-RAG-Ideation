@@ -1,5 +1,7 @@
 This repository contains some proposed ideas for the inter IIT tech meet 2024 ML/AI Problem statement
 
+Please check the 2 word documents for some research.
+
 This year's problem statement emphasizes on RAG multi-agent systems. As a test, I have uploaded a Jupyter notebook which implements a very basic RAG implementation. I have created a corpus on NJACK ML, and I have used that to improve the results given by the relatively small distilbart-cnn-12-6 model. 
 
 Just as a comparison 
@@ -15,4 +17,4 @@ NJACK is the coding club of IIT Patna. NJACK has 4 divisions and has sub coordin
 
 The retrieval mechanism is rather primitive at this stage. However, it can be improved using Pathway’s inbuilt API or by encoding words into vectors before searching.
 
-Along with this I have a word file with some basic ideas.
+Along with this I have added two word files with some basic ideas.
